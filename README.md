@@ -1,1 +1,1 @@
-# patika-js-odev2
+# Bu odev front-end egitimindeki javascript basliginda 2. odev olarak yapilmistir. 
